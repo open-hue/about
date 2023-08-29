@@ -1,6 +1,6 @@
 # [open-hue](https://github.com/open-hue)/about
 
-The "open-hue" organization on GitHub is a **community-driven** initiative to simplify the life of DYI enthusiasts using Philips Hue products.
+The open-hue organization on GitHub is a **community-driven** initiative to simplify the life of DYI enthusiasts using Philips Hue products.
 
 # Disclaimer
 
@@ -35,5 +35,5 @@ Legend:
 Open an issue with an idea to this repo and let's discuss the possibilities.
 
 [spec]: http://github.com/open-hue/spec
-[go]: http://github.com/open-hue/hue.go
+[go]: http://github.com/open-hue/go
 [tf]: http://github.com/open-hue/terraform-provider-hue
