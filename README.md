@@ -1,6 +1,6 @@
 # [open-hue](https://github.com/open-hue)/about
 
-The open-hue organization on GitHub is a **community-driven** initiative to simplify the life of DYI enthusiasts using Philips Hue products.
+The open-hue organization on GitHub is a **community-driven** initiative to simplify the life of DIY enthusiasts using Philips Hue products.
 
 # Disclaimer
 
