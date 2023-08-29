@@ -21,7 +21,7 @@ Should any of the above change this page is going to be updated accorddingly.
 | Project                  | Description                                      | Status       | Owner |
 |--------------------------|--------------------------------------------------|--------------|-------|
 | [spec][spec]             | An OpenAPI specification for the Philips Hue API | 🧪 Experiment | ?     |
-| [hue.go][go]             | A stable v2 compatible go-lang client            | 💡  Idea      | ?     |
+| [go][go]                 | A stable v2 compatible go-lang client            | 🧪 Experiment | ?     |
 | [terraform provider][tf] | A terraform provider for HueAPI IaC              | 💡  Idea      | ?     |
 
 Legend:
